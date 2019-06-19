@@ -1,0 +1,51 @@
+[
+  {
+    "id":"albi",
+    "title": "Albi",
+    "img": "img/albi-vignette.jpg",
+    "population": "65000",    
+    "superficie": "35640 km²",     
+    "visites": ["Cathédrale", "Musée Toulouse Lautrec", "Berges du Tarn", "Le Vigan"]
+  },
+  {
+    "id":"cordes",
+    "title": "Cordes-sur-ciel",
+    "img": "img/cordes-vignette.jpg",
+    "population": "",    
+    "superficie": "",     
+    "visites": ["Cathédrale", "Musée Toulouse Lautrec", "Berges du Tarn", "Le Vigan"]
+  },
+ {
+    "id":"gaillac",
+    "title": "Gaillac",
+    "img": "img/gaillac-vignette.jpg",
+    "population": "",    
+    "superficie": "",     
+    "visites": ["Cathédrale", "Musée Toulouse Lautrec", "Berges du Tarn", "Le Vigan"]
+  },
+  {
+    "id":"graulhet",
+    "title": "Graulhet",
+    "img": "img/graulhet-vignette.jpg",
+    "population": "",    
+    "superficie": "",     
+    "visites": ["Cathédrale", "Musée Toulouse Lautrec", "Berges du Tarn", "Le Vigan"]
+  },
+
+  {
+    "id":"castres",
+    "title": "Castres",
+    "img": "img/castres-vignette.jpg",
+    "population": "",    
+    "superficie": "",     
+    "visites": ["Cathédrale", "Musée Toulouse Lautrec", "Berges du Tarn", "Le Vigan"]
+  },
+  {
+    "id":"rouairoux",
+    "title": "Labastide de Rouairoux",
+    "img": "img/rouairoux-vignette.jpg",
+    "population": "",    
+    "superficie": "",     
+    "visites": ["Cathédrale", "Musée Toulouse Lautrec", "Berges du Tarn", "Le Vigan"]
+  }
+]
